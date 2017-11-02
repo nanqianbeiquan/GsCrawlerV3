@@ -1,0 +1,149 @@
+# coding=utf-8
+
+from gs.Searcher import Searcher
+from gs import TimeUtils
+from geetest_broker.GeetestBroker import GeetestBrokerRealTime
+import json
+import random
+from bs4 import BeautifulSoup
+import re
+from geetest_broker import MySQL
+import codecs
+
+'''
+create table enterprise_credit_info.tag_a_zj
+(mc varchar(255) primary key
+,xydm varchar(50)
+,zch varchar(50)
+,tag_a varchar(255)
+);
+create index xydm_idx on tag_a_zj(xydm);
+'''
+
+
+class ZongJuSearcher(Searcher, GeetestBrokerRealTime):
+
+    xydm = None
+    zch = None
+    province = u'工商总局'
+
+    def __init__(self):
+        super(ZongJuSearcher, self).__init__(use_proxy=True)
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0'
+        }
+        self.set_geetest_config()
+
+    def set_geetest_config(self):
+        self.geetest_product = 'popup'
+        self.geetest_referer = 'http://www.gsxt.gov.cn/index.html'
+
+    def get_gt_challenge(self):
+        url_1 = "http://www.gsxt.gov.cn/SearchItemCaptcha?v=%s" % TimeUtils.get_cur_ts_mil()
+        self.info(u'获取gt和challenge...')
+        r_1 = self.get_request(url_1)
+        json_1 = json.loads(r_1.text)
+        self.gt = json_1['gt']
+        self.challenge = json_1['challenge']
+
+    def get_token(self):
+        self
+        return str(random.randint(50000000, 60000000))
+
+    def get_tag_a_from_page(self, mc, xydm):
+        if mc:
+            keyword = mc
+        else:
+            keyword = xydm
+        validate = self.get_geetest_validate()
+        url = "http://www.gsxt.gov.cn/corp-query-search-1.html"
+        params = {
+            'geetest_challenge': self.challenge,
+            'geetest_seccode': '%s|jordan' % validate,
+            'geetest_validate': '%s' % validate,
+            'searchword': keyword,
+            'tab': 'ent_tab',
+            'token': self.get_token()
+        }
+        r = self.post_request(url=url, params=params)
+        # print r.text
+        soup = BeautifulSoup(r.text, 'lxml')
+        item_list = soup.select('a[class="search_list_item db"]')
+        # if len(item_list) == 0 and u'查询到<span class="search_result_span1">0</span>条信息' not in r.text:
+        #     print soup
+        # print item_list
+        res_tag_a = None
+        for item_ele in item_list:
+            xydm, zch = '', ''
+            mc = item_ele.select('h1')[0].text.replace('(', u'（').replace(')', u'）').replace(' ', '').strip()
+            tag_a = item_ele.attrs['href']
+            tag_a = tag_a[:-16]+'__cur_ts_mil__%7D'
+            if mc == keyword or xydm:
+                res_tag_a = tag_a
+            code_ele = item_ele.select('div.div-map2')[0]
+            code_text = code_ele.text
+            # print 'code_text:', code_text
+            code_type, code = [s.strip() for s in re.split(u'[:：]', code_text)]
+            if code_type == u'统一社会信用代码':
+                xydm = code
+            elif code_type == u'注册号':
+                zch = code
+            # print mc, code_text
+            # print 'mc:', mc, 'xydm:', xydm, 'zch:', zch, 'tag_a:', tag_a
+            self.save_tag_a_to_db(tag_a, mc, xydm, zch)
+        return res_tag_a
+
+    def save_tag_a_to_db(self, tag_a, mc, xydm, zch):
+        tag_a_info = self.get_tag_a_from_db(mc, xydm)
+        if tag_a_info:
+            _tag_a, _mc, _xydm = tag_a_info
+            if _mc == mc and xydm == _xydm:
+                pass
+            else:
+                sql1 = "delete from enterprise_credit_info.tag_a_zj where mc='%s' or xydm='%s'" % (mc, xydm)
+                sql2 = "update enterprise_credit_info.tag_a_zj set tag_a='%s',mc='%s' where xydm='%s'" % (tag_a, mc, xydm)
+                MySQL.execute_update(sql1)
+                MySQL.execute_update(sql2)
+        else:
+            sql = "insert into enterprise_credit_info.tag_a_zj(tag_a,mc,xydm,zch) values('%s','%s','%s','%s')" % (tag_a, mc, xydm, zch)
+            print sql
+            MySQL.execute_update(sql)
+
+    def get_tag_a_from_db(self, keyword, xydm):
+        if xydm:
+            sql = "select tag_a,mc,xydm from enterprise_credit_info.tag_a_zj where xydm='%s'" % xydm
+        else:
+            sql = "select tag_a,mc,xydm from enterprise_credit_info.tag_a_zj where mc='%s'" % keyword
+        res = MySQL.execute_query(sql)
+        if len(res) > 0:
+            return res[0]
+        else:
+            return None
+
+    def submit_search_request(self, keyword, flags=True, account_id='null', task_id='null'):
+        keyword = keyword.replace('(', u'（').replace(')', u'）').replace(' ', '')
+        mc, xydm = '', ''
+        if flags:
+            mc = keyword
+        else:
+            xydm = keyword
+        tag_a_info = self.get_tag_a_from_db(mc, xydm)
+        if tag_a_info:
+            tag_a, mc, xydm = tag_a_info
+        else:
+            tag_a = self.get_tag_a_from_page(mc, xydm)
+
+
+def test():
+    searcher = ZongJuSearcher()
+    f = codecs.open('/Users/likai/Documents/dtjk_company_2017-01-08.txt', 'r', 'utf-8')
+    company_list = f.readlines()
+    for company in company_list:
+        searcher.info(company)
+        searcher.submit_search_request(company.strip(), True)
+
+
+if __name__ == '__main__':
+    # test()
+    searcher = ZongJuSearcher()
+    searcher.submit_search_request(u'趣园食品股份有限公司', True)

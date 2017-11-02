@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11e970f5-ec81-4466-ad40-58b808c721ba" name="Default" comment="江苏爬虫">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/CaptchaRecognition/CrackCaptchaCnn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/CaptchaRecognition/PreProcess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/CaptchaRecognition/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/CaptchaRecognition/keras_cnn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/CaptchaRecognition/load_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/TensorFlow/convolutional_network.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/TensorFlow/get_trades.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/TensorFlow/input_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/TensorFlow/rnn_predicter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MachineLearning/TensorFlow/train_cnn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MachineLearning/DecisionTree/treePlotter.py" afterPath="$PROJECT_DIR$/../MachineLearning/DecisionTree/treePlotter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/train_CNN_olivettifaces.py" afterPath="$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/train_CNN_olivettifaces.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/use_CNN_olivettifaces.py" afterPath="$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/use_CNN_olivettifaces.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MachineLearning/ManifoldLearning/DimensionalityReduction_DataVisualizing/data_visualizing.py" afterPath="$PROJECT_DIR$/../MachineLearning/ManifoldLearning/DimensionalityReduction_DataVisualizing/data_visualizing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MachineLearning/kNN/use Python and NumPy/kNN.py" afterPath="$PROJECT_DIR$/../MachineLearning/kNN/use Python and NumPy/kNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch02/EXTRAS/testSet.txt" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch02/EXTRAS/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch02/kNN.py" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch02/kNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch11/apriori.py" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch11/apriori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../machinelearninginaction/Ch15/myout.txt" afterPath="$PROJECT_DIR$/../machinelearninginaction/Ch15/myout.txt" />
+    </list>
+    <ignored path="GsCrawlerV3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GsCrawlerV3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="monoDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/monoDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lstm_text_generation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../keras/examples/lstm_text_generation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reuters_mlp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../keras/examples/reuters_mlp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vgg_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../keras/learn/vgg_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conv_filter_visualization.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../keras/examples/conv_filter_visualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20034844">
+              <caret line="124" column="47" selection-start-line="124" selection-start-column="47" selection-end-line="124" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="159" column="22" selection-start-line="159" selection-start-column="22" selection-end-line="159" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NaiveBayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MachineLearning/NaiveBayes/NaiveBayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../keras" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../keras/keras/datasets/cifar10.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/sequential_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/softmax_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/mlp_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/conv1d_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/lstm_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/stateful_lstm_model.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/fullnets_test.py" />
+        <option value="$PROJECT_DIR$/../keras/keras/preprocessing/sequence.py" />
+        <option value="$PROJECT_DIR$/../keras/examples/addition_rnn.py" />
+        <option value="$PROJECT_DIR$/../YsymCrawler/HuBeiSearcher_liu.py" />
+        <option value="$PROJECT_DIR$/../keras/examples/antirectifier.py" />
+        <option value="$PROJECT_DIR$/../keras/examples/babi_memnn.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/load_data.py" />
+        <option value="$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/train_CNN_olivettifaces.py" />
+        <option value="$PROJECT_DIR$/../keras/cat_dog.py" />
+        <option value="$PROJECT_DIR$/../keras/catanddog/test.py" />
+        <option value="$PROJECT_DIR$/../keras/keras/preprocessing/image.py" />
+        <option value="$PROJECT_DIR$/../MachineLearning/TensorFlow/get_trades.py" />
+        <option value="$PROJECT_DIR$/../MachineLearning/TensorFlow/rnn_predicter.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/dogs_cnn.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/get_minst_pic.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/train_model.py" />
+        <option value="$PROJECT_DIR$/../keras/keras/datasets/mnist.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/TrainModel.py" />
+        <option value="$PROJECT_DIR$/../keras/examples/mnist_cnn.py" />
+        <option value="$PROJECT_DIR$/../MachineLearning/TensorFlow/load_data.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_acgan.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_hierarchical_rnn.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_mlp.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_net2net.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_siamese_graph.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_sklearn_wrapper.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_swwae.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_transfer_cnn.py" />
+        <option value="$PROJECT_DIR$/../keras/catanddog/FaceRecognition.py" />
+        <option value="$PROJECT_DIR$/../keras/catanddog/face_detection.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/GetPic.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/dog_train_model_keras.py" />
+        <option value="$PROJECT_DIR$/../keras/examples/stateful_lstm.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_irnn.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/dog_predict_use_keras.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/dog_train_use_keras.py" />
+        <option value="$PROJECT_DIR$/../keras/dogs/load_dog_dataset.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/get_mnist_data.py" />
+        <option value="$PROJECT_DIR$/../keras/handwritten/mnist_cnn.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/TimeUtils.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/animation_plot.py" />
+        <option value="$PROJECT_DIR$/../DeepLearning/DigitalVerificationCode/PreProcess.py" />
+        <option value="$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py" />
+        <option value="$PROJECT_DIR$/../keras/learn/vgg_model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GsCrawlerV3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GsCrawlerV3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GsCrawlerV3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keras" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jingwang.tian/PycharmProjects/DeepLearning/SupportVectorMachine/pic_process.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jingwang.tian\PycharmProjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jingwang.tian\PycharmProjects\keras\catanddog" />
+      <recent name="C:\Users\jingwang.tian\PycharmProjects\keras\handwritten" />
+      <recent name="C:\Users\jingwang.tian\PycharmProjects\MachineLearning\CaptchaRecognition" />
+      <recent name="C:\Users\jingwang.tian\PycharmProjects\YsymCrawler" />
+      <recent name="C:\Users\jingwang.tian\PycharmProjects\MachineLearning\TensorFlow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.conv_filter_visualization">
+    <configuration default="false" name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../machinelearninginaction/Ch11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../machinelearninginaction/Ch11/apriori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mrSVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../machinelearninginaction/Ch15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../machinelearninginaction/Ch15/mrSVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="monoDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/monoDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create2Normal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machinelearninginaction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/create2Normal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="conv_filter_visualization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../keras/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../keras/examples/conv_filter_visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JiangSuSearcher" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiang_su" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="GsCrawlerV3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiang_su/JiangSuSearcher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetCrawlerData (1)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../WebLearning/GetCrawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebLearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../WebLearning/GetCrawler/GetCrawlerData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="train_cnn (1)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MachineLearning/TensorFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MachineLearning/TensorFlow/train_cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.JiangSuSearcher" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GetCrawlerData (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.train_cnn (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.apriori" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mrSVM" />
+      <item index="5" class="java.lang.String" itemvalue="Python.monoDemo" />
+      <item index="6" class="java.lang.String" itemvalue="Python.create2Normal" />
+      <item index="7" class="java.lang.String" itemvalue="Python.conv_filter_visualization" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.conv_filter_visualization" />
+        <item index="1" class="java.lang.String" itemvalue="Python.monoDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.create2Normal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mrSVM" />
+        <item index="4" class="java.lang.String" itemvalue="Python.apriori" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e970f5-ec81-4466-ad40-58b808c721ba" name="Default" comment="" />
+      <created>1488509587761</created>
+      <option name="number" value="Default" />
+      <updated>1488509587761</updated>
+    </task>
+    <task id="LOCAL-00001" summary="江苏爬虫">
+      <created>1488522050793</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488522050793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="江苏爬虫">
+      <created>1488522170734</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488522170734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="江苏爬虫">
+      <created>1489390296971</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489390296971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="江苏爬虫">
+      <created>1489396537276</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1489396537276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="江苏爬虫">
+      <created>1489454925012</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489454925012</updated>
+    </task>
+    <task id="LOCAL-00006" summary="江苏爬虫">
+      <created>1489540150494</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489540150494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="江苏爬虫">
+      <created>1489546942739</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489546942739</updated>
+    </task>
+    <task id="LOCAL-00008" summary="江苏爬虫">
+      <created>1489559258055</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489559258055</updated>
+    </task>
+    <task id="LOCAL-00009" summary="江苏爬虫">
+      <created>1490166907280</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490166907280</updated>
+    </task>
+    <task id="LOCAL-00010" summary="江苏爬虫">
+      <created>1490326458804</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1490326458804</updated>
+    </task>
+    <task id="LOCAL-00011" summary="江苏爬虫">
+      <created>1490326666086</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1490326666086</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_babi_memnn - 2017.08.17 at 10h 08m 19s.xml">
+      <configuration name="Doctests in babi_memnn" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_babi_memnn - 2017.08.17 at 10h 09m 30s.xml">
+      <configuration name="Doctests in babi_memnn" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_babi_rnn - 2017.08.17 at 10h 31m 50s.xml">
+      <configuration name="Doctests in babi_rnn" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_MyTestCase_test_something - 2017.08.31 at 09h 25m 39s.xml">
+      <configuration name="Unittest MyTestCase.test_something" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2075188" sideWeight="0.48955223" order="0" side_tool="false" content_ui="combo" x="544" y="24" width="273" height="672" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14049587" sideWeight="0.53927493" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.36797273" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="25" y="522" width="1342" height="152" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42930153" sideWeight="0.46072507" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20661157" sideWeight="0.5556391" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16198348" sideWeight="0.4443609" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1584327" sideWeight="0.48187312" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42975205" sideWeight="0.36736214" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253833" sideWeight="0.48489425" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42930153" sideWeight="0.5302115" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.27597955" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="47" y="433" width="208" height="201" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42930153" sideWeight="0.46978852" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37308347" sideWeight="0.53625375" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15936556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="544" y="24" width="273" height="672" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253833" sideWeight="0.49093655" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24924472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17887564" sideWeight="0.46374622" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="江苏爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="江苏爬虫" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../MachineLearning/DeepLearning Tutorials/FaceRecognition_CNN(olivettifaces)/train_CNN_olivettifaces.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/../keras/handwritten/mnist_siamese_graph.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="126" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../YsymCrawler/HuBeiSearcher_liu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5156794">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../YsymCrawler/ProxyConf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../YsymCrawler/MyException.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8815331">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../YsymCrawler/MaYiLockId.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6689897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/dogs/dogs_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2578397">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/dogs/load_dog_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1045296">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/handwritten/get_minst_pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6585366">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/imdb_bidirectional_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.31707317">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/keras/preprocessing/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7055749">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/keras/preprocessing/sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28222996">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/keras/datasets/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047038328">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/imdb_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6236934">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/keras/datasets/reuters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3292683">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/email/ham/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch06/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56216216">
+          <caret line="346" column="25" selection-start-line="346" selection-start-column="25" selection-end-line="346" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch07/horseColicTest2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5837838">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch07/adaboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41621622">
+          <caret line="123" column="14" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43783784">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch08/setHtml/lego8288.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.292763">
+          <caret line="0" column="712" selection-start-line="0" selection-start-column="712" selection-end-line="0" selection-end-column="712" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch11/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43783784">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch08/Old_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.427027">
+          <caret line="11" column="31" selection-start-line="10" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch08/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36486486">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/classifierStorage.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch15/mrSVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch15/mrMean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch15/wc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3206651">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/email/spam/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MachineLearning/NaiveBayes/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/create2Normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/EXTRAS/monoDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/lstm_text_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/variational_autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61149824">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/stateful_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/reuters_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/learn/vgg_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch04/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="22" selection-start-line="159" selection-start-column="22" selection-end-line="159" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MachineLearning/NaiveBayes/NaiveBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LengJingETL/src/kafka/KafkaAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3292683">
+          <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras/examples/conv_filter_visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20034844">
+          <caret line="124" column="47" selection-start-line="124" selection-start-column="47" selection-end-line="124" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
